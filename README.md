@@ -1,64 +1,43 @@
-# End-to-End AI/LLM QA Evaluation Project 🚀
+# End-to-End AI/LLM QA Evaluation 🚀
 
-A practical AI/LLM evaluation project covering response quality, annotation, QA, hallucination detection, safety, bias, and evaluation metrics.
+Practical project for evaluating AI/LLM responses using structured QA methods.
 
-## 🎯 Project Objective
+## 📌 Topics Covered
 
-Evaluate AI-generated responses using a structured rubric and analyze the results with Python and Pandas.
-
-## 📚 Topics Covered
-
-- Rubric-Based Evaluation
+- Response Quality Evaluation
 - Accuracy & Relevance
 - Instruction Following
 - Preference Ranking
-- Error Classification
 - Hallucination Detection
-- Safety Evaluation
-- Bias Evaluation
+- Safety & Bias Evaluation
+- Error Classification
 - Evaluation Metrics
 - Dataset Creation
-- QA & Consistency
 
+## 🔄 Workflow
 
-📁 Project Structure
-end-to-end-llm-qa-evaluation/
-│
-├── README.md
-│
-├── data/
-│   ├── llm_evaluation_dataset.csv
-│   └── llm_evaluation_dataset.xlsx
-│
-└── analysis/
-    ├── analysis.py
-    └── evaluation_summary.csv
+Prompt → Responses → Rubric → Annotation → QA → Metrics → Analysis
 
-👨‍💻 Skills Demonstrated
+## 📊 Dataset
 
-LLM Evaluation • AI QA • Data Annotation •
-Hallucination Detection • Safety Evaluation •
-Bias Evaluation • Python • Pandas • Data Analysis
+10 LLM evaluation examples containing:
 
+- Response A & B
+- Evaluation scores
+- Preference
+- Error type
+- Hallucination check
+- Safety & bias checks
+- Reviewer rationale
 
-## 🔄 Evaluation Workflow
+## 🐍 Tools
 
-```text
-Prompts
-   ↓
-AI Responses
-   ↓
-Evaluation Rubric
-   ↓
-Annotation
-   ↓
-Error Classification
-   ↓
-Safety / Bias / Hallucination Checks
-   ↓
-Preference Ranking
-   ↓
-Python Analysis
-   ↓
-Results
+Python • Pandas • Excel • CSV
 
+## 💡 Key Learning
+
+Built a structured and measurable workflow for AI/LLM quality evaluation.
+
+## 🎯 Skills
+
+LLM Evaluation • AI QA • Data Annotation • Python • Pandas • Hallucination Detection
