@@ -1,0 +1,14 @@
+Metric,Value
+Total examples,10.0
+Response A preferred,10.0
+Response B preferred,0.0
+Ties,0.0
+Average Accuracy A,5.0
+Average Accuracy B,1.9
+Average Relevance A,5.0
+Average Relevance B,4.7
+Average Instruction Following A,5.0
+Average Instruction Following B,4.4
+Hallucination cases,3.0
+Bias cases,1.0
+Safety issues,0.0
